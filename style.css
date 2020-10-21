@@ -1,0 +1,22 @@
+body {
+  background-color: azure;
+  margin: 100px 250px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #777777;
+}
+
+.title {
+  margin: 10px 0 0 0;
+}
+
+.date {
+  margin: 10px 0;
+}
+
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #777777;
+  border-bottom: 1px solid #777777;
+  background-color: rgba(0,0,0, 0.05);
+}
